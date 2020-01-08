@@ -1,0 +1,16 @@
+codFat: 1234	codProd: 100	Nome: MOCHILA                          	Qtd: 0	ValUnit: 10.00	ValFrete: 10.00	Forn: 0000
+codFat: 1234	codProd: 101	Nome: CADERNO                          	Qtd: 0	ValUnit: 11.00	ValFrete: 10.00	Forn: 1002
+codFat: 1235	codProd: 100	Nome: MOCHILA                          	Qtd: 4	ValUnit: 12.00	ValFrete: 10.00	Forn: 1001
+codFat: 1234	codProd: 102	Nome: LAPISEIRA                        	Qtd: 5	ValUnit: 13.00	ValFrete: 10.00	Forn: 1002
+codFat: 1234	codProd: 103	Nome: SULFITE 100 FLS                  	Qtd: 6	ValUnit: 14.90	ValFrete: 10.00	Forn: 1003
+codFat: 1111	codProd: 100	Nome: MOCHILA                          	Qtd: 0	ValUnit: 15.80	ValFrete: 10.00	Forn: 1003
+codFat: 1111	codProd: 103	Nome: SULFITE 100 FLS                  	Qtd: 8	ValUnit: 16.70	ValFrete: 10.00	Forn: 1003
+codFat: 1112	codProd: 100	Nome: MOCHILA                          	Qtd: 9	ValUnit: 17.00	ValFrete: 10.00	Forn: 1003
+codFat: 1111	codProd: 105	Nome: GIZ DE CERA                      	Qtd: 10	ValUnit: 18.00	ValFrete: 10.00	Forn: 1003
+codFat: 4455	codProd: 100	Nome: MOCHILA                          	Qtd: 11	ValUnit: 19.00	ValFrete: 10.00	Forn: 1001
+codFat: 4455	codProd: 105	Nome: GIZ DE CERA                      	Qtd: 12	ValUnit: 20.00	ValFrete: 10.00	Forn: 1001
+codFat: 1234	codProd: 100	Nome: xxxxxxx                          	Qtd: 13	ValUnit: 10.00	ValFrete: 10.00	Forn: 0000
+codFat: 1234	codProd: 100	Nome: zzzzzzz                          	Qtd: 13	ValUnit: 10.00	ValFrete: 10.00	Forn: 0000
+codFat: 1234	codProd: 100	Nome: yyyyyyy                          	Qtd: 13	ValUnit: 10.00	ValFrete: 10.00	Forn: 0000
+codFat: 9999	codProd: 100	Nome: aaaaaaa                          	Qtd: 13	ValUnit: 10.00	ValFrete: 10.00	Forn: 1000
+codFat: 9999	codProd: 100	Nome: ccccccc                          	Qtd: 13	ValUnit: 10.00	ValFrete: 10.00	Forn: 1001

@@ -1,0 +1,6 @@
+segs=input()
+segs=int(segs)
+horas = int(segs/3600)
+minutos = int((segs%3600)/60)
+segs = ((segs%3600)%60)
+print(horas,":",minutos,":",segs,sep="")

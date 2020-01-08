@@ -1,0 +1,9 @@
+3) O metodo implementado foi o de inserção;
+4)a)o ponteiro FILE está recebendo o endereço
+do arquivo de texto "gravar.txt",
+porem apenas com acesso para leitura
+b)está sendo adquirido o conteudo para
+a string 'buf', que ira possuir um tamanho até 'MAX' 
+e esta sendo lida pelo pointeiro FILE arq; 
+c)A manipulação do pointeiro FILE arq, está avançando -bytes do tamanho do arquivo 'livro'
+a partir do ponto atual de leitura (seek_cur);
